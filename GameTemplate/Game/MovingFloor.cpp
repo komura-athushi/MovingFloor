@@ -9,7 +9,7 @@ namespace
 	float SPEED = 200.0f;
 	float LIMITED = 300.0f;
 	Vector3 COLLISION_HEIGHT = Vector3(0.0f, 50.0f, 0.0f);
-	Vector3	COLLISION_SIZE = Vector3(370.0f, 5.0f, 230.0f);
+	Vector3	COLLISION_SIZE = Vector3(365.0f, 5.0f, 225.0f);
 }
 
 MovingFloor::MovingFloor()
